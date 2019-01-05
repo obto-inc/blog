@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Create-Webworker-From-String
 ---
 
-# Plarform Endpoints
+# blog.raananweber.com/2015/05/30/web-worker-without-a-separate-file
 
 ## Authentication
