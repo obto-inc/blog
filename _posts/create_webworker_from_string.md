@@ -1,3 +1,0 @@
-# Plarform Endpoints
-
-## Authentication
